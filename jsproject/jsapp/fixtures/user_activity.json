@@ -1,0 +1,23 @@
+[
+  {
+    "model": "jsapp.User_Act",
+    "id": "W012A3CDE",
+    "real_name": "Egon Spengler",
+			"tz": "America/Los_Angeles",
+			" user_activity": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+    }]
+              },
+  {
+    "model": "jsapp.User_Act",
+    "id": "W07QCRPA4",
+    "real_name": "Glinda Southgood",
+    "tz": "Asia/Kolkata",
+    " user_activity": [{
+        "start_time": "Feb 1 2020  1:33PM",
+        "end_time": "Feb 1 2020 1:54PM"
+      }
+    ]
+  }
+]
